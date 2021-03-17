@@ -1,4 +1,3 @@
-# Iñaki Lorente
-Hello everyone!
+# Hello everyone!
 
 Find more about me [here](https://iggyrrieta.github.io/)
